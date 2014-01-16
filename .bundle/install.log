@@ -1,0 +1,17 @@
+# Logfile created on 2014-01-16 17:56:44 +0000 by logger.rb/41954
+I, [2014-01-16T17:56:44.063408 #59357]  INFO -- : 0:  rake (10.1.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.1.1.gemspec
+I, [2014-01-16T17:56:44.064114 #59357]  INFO -- : 0:  json (1.8.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-16T17:56:44.064572 #59357]  INFO -- : 0:  rack (1.5.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-16T17:56:45.267728 #59357]  INFO -- : 0:  rack-protection (1.5.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-16T17:56:45.268173 #59357]  INFO -- : 0:  rack-test (0.6.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-16T17:56:45.268487 #59357]  INFO -- : 0:  tilt (1.4.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-16T17:56:47.027420 #59357]  INFO -- : 0:  sinatra (1.4.4) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-16T17:56:47.027884 #59357]  INFO -- : 0:  bundler (1.5.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-16T17:57:12.696519 #59358]  INFO -- : 0:  rake (10.1.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.1.1.gemspec
+I, [2014-01-16T17:57:12.697002 #59358]  INFO -- : 0:  json (1.8.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-16T17:57:12.697358 #59358]  INFO -- : 0:  rack (1.5.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-16T17:57:12.697828 #59358]  INFO -- : 0:  rack-protection (1.5.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-16T17:57:12.698286 #59358]  INFO -- : 0:  rack-test (0.6.2) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-16T17:57:12.698818 #59358]  INFO -- : 0:  tilt (1.4.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-16T17:57:12.699457 #59358]  INFO -- : 0:  sinatra (1.4.4) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-16T17:57:12.699941 #59358]  INFO -- : 0:  bundler (1.5.1) from /Users/jbonnet/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
